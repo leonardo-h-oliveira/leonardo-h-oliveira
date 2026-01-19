@@ -1,6 +1,6 @@
 ## Leonardo Henrique Oliveira
 
-🎓 Estudante de Engenharia Química | MBA em Data Science & Analytics – USP/ESALQ 
+🎓 Estudante de Engenharia Química | MBA em Data Science & Analytics – USP/ESALQ
 💻 Python | Dados | Sistemas | TI aplicada à Engenharia 
 
 ## Sobre mim
