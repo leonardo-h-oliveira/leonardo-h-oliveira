@@ -18,11 +18,10 @@ dados e engenharia.
 
 ## Tecnologias
 - Python
-- Pandas
+- Java
+- SQL
 - Firebase
 - MIT App Inventor
-- Git & GitHub
-- Análise de dados
 
 ## Projetos em Destaque
 - 🚗 **UniCar** – Protótipo de aplicativo de caronas universitárias  
