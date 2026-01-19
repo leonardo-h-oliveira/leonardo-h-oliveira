@@ -15,7 +15,7 @@ autenticação de usuários e integração com banco de dados Firebase.
 Atualmente curso MBA em Data Science e Analytics pela USP/ESALQ e estou retomando o ciclo profissional
 do curso de Engenharia Química, com interesse em atuar na interseção entre tecnologia, dados e engenharia.
 
-## Tecnologia
+## Tecnologias
 - Python
 - Pandas (em aprendizado)
 - Firebase
