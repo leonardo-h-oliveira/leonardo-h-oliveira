@@ -26,11 +26,11 @@ dados e engenharia.
 
 ## Projetos em Destaque
 - 🚗 **UniCar** – Protótipo de aplicativo de caronas universitárias  
-  Repositório: `unicar-app-caronas`
+  Repositório: `unicar-app-caronas`.
 
 - 🧠 **Python – Recursos Computacionais**  
   Scripts, exercícios resolvidos e introdução à análise de dados com Pandas  
-  Repositório: `python-recursos-computacionais`
+  Repositório: `python-recursos-computacionais`.
 
 ## Objetivo
 Busco oportunidades de **estágio ou posição júnior** nas áreas de Tecnologia da Informação,
