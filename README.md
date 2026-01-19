@@ -18,10 +18,10 @@ do curso de Engenharia Química, com interesse em atuar na interseção entre te
 
 ## Tecnologias
 - Python
-- Pandas (em aprendizado)
+- SQL
+- Java
 - Firebase
 - MIT App Inventor
-- Git e GitHub
 - Lógica de programação
 
 ## Projetos
