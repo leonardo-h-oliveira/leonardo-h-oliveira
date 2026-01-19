@@ -1,16 +1,33 @@
-## Hi there 👋
+ Leonardo Henrique Oliveira
 
-<!--
-**leonardo-h-oliveira/leonardo-h-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia Química | MBA em Data Science & Analytics – USP/ESALQ 
+💻 Python | Dados | Sistemas | TI aplicada à Engenharia 
 
-Here are some ideas to get you started:
+## Sobre mim
+Sou formado no Bacharelado Interdisciplinar em Ciência e Tecnologia (BICT) pela UNIFAL-MG,
+com experiência em monitoria acadêmica nas disciplinas Recursos Computacionais I, II e III,
+utilizando a linguagem Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvi como Trabalho de Conclusão de Curso um protótipo funcional de aplicativo de caronas
+para a comunidade universitária (UniCar), envolvendo levantamento de requisitos, lógica de negócio,
+autenticação de usuários e integração com banco de dados Firebase.
+
+Atualmente curso MBA em Data Science e Analytics pela USP/ESALQ e estou retomando o ciclo profissional
+do curso de Engenharia Química, com interesse em atuar na interseção entre tecnologia, dados e engenharia.
+
+## Tecnologias
+- Python
+- Pandas (em aprendizado)
+- Firebase
+- MIT App Inventor
+- Git e GitHub
+- Lógica de programação
+
+## Projetos
+- 🚗 **UniCar** – Protótipo de aplicativo de caronas universitárias 
+- 📊 **Análise de Dados com Python** – Projetos de estudo e exploração de dados 
+- 🧠 **Python Educacional** – Scripts desenvolvidos durante monitorias acadêmicas
+
+## Contato
+- LinkedIn: 
+- E-mail: Henry_leonardo@icloud.com
