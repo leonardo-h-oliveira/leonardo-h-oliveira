@@ -1,40 +1,39 @@
 # Leonardo Henrique Oliveira
 
-🎓 Estudante de Engenharia Química | MBA em Data Science & Analytics – USP/ESALQ  
-💻 Python | Análise de Dados | Sistemas | TI aplicada à Engenharia  
+🎓 BICT graduate | Chemical Engineering and MBA in Data Science & Analytics student – UNIFAL-MG & USP/ESALQ  
+💻 Python | Data Analysis | Systems | IT applied to Engineering  
 
-## Sobre mim
-Sou formado no Bacharelado Interdisciplinar em Ciência e Tecnologia (BICT) pela UNIFAL-MG, 
-com experiência em monitoria acadêmica nas disciplinas Recursos Computacionais I, II e III, 
-atuando com a linguagem Python e apoio a estudantes em lógica de programação.
+## About me
+I hold a completed degree in the Interdisciplinary Bachelor of Science and Technology (BICT) from UNIFAL-MG. 
+During my undergraduate studies, I served as an academic teaching assistant for Computational Resources I, II and III, 
+working with Python and supporting students in programming logic.
 
-Como Trabalho de Conclusão de Curso, desenvolvi o **UniCar**, um protótipo funcional de aplicativo
-de caronas universitárias, envolvendo levantamento de requisitos, modelagem do sistema,
-lógica de negócio, autenticação de usuários e integração com banco de dados Firebase.
+As my undergraduate final project, I developed **UniCar**, a functional prototype of a university carpooling application, 
+covering requirements analysis, system modeling, business logic, user authentication, 
+and integration with a Firebase database.
 
-Atualmente curso **MBA em Data Science e Analytics pela USP/ESALQ** e estou retomando o ciclo
-profissional da **Engenharia Química**, com interesse em atuar na interseção entre tecnologia,
-dados e engenharia.
+I am currently a **Chemical Engineering and Data Science & Analytics (MBA) student** at **UNIFAL-MG and USP/ESALQ**, 
+with a strong interest in working at the intersection of technology, data, and engineering.
 
-## Tecnologias
+## Technologies
 - Python
 - Java
 - SQL
 - Firebase
 - MIT App Inventor
 
-## Projetos em Destaque
-- 🚗 **UniCar** – Protótipo de aplicativo de caronas universitárias  
-  Repositório: `unicar-app-caronas`.
+## Featured Projects
+- 🚗 **UniCar** – University carpooling application prototype  
+  Repository: `unicar-app-caronas`
 
-- 🧠 **Python – Recursos Computacionais**  
-  Scripts, exercícios resolvidos e introdução à análise de dados com Pandas  
-  Repositório: `python-recursos-computacionais`.
+- 🧠 **Python – Computational Resources**  
+  Scripts, solved exercises, and an introduction to data analysis with Pandas  
+  Repository: `python-recursos-computacionais`
 
-## Objetivo
-Busco oportunidades de **estágio ou posição júnior** nas áreas de Tecnologia da Informação,
-Análise de Dados ou aplicações computacionais em engenharia.
+## Objective
+I am seeking **internship or junior-level opportunities** in Information Technology, 
+Data Analysis, or computational applications in engineering.
 
-## Contato
-- LinkedIn: (adicionar)
-- E-mail: Henry_leonardo@icloud.com
+## Contact
+- LinkedIn: (to be added)
+- Email: Henry_leonardo@icloud.com
