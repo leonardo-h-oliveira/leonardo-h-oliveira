@@ -35,5 +35,5 @@ I am seeking **internship or junior-level opportunities** in Information Technol
 Data Analysis, or computational applications in engineering.
 
 ## Contact
-- LinkedIn: (to be added)
+
 - Email: Henry_leonardo@icloud.com
