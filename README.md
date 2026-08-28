@@ -1,136 +1,176 @@
-Leonardo Henrique Oliveira
+# 👋 Hi, I'm Leonardo Henrique Oliveira
 
-🎓 Bachelor of Science and Technology | Chemical Engineering Student | MBA in Data Science & Analytics
-💻 Python | Data Analysis | Software Development | Technology Applied to Engineering
+### 🎓 Science & Technology Graduate | Chemical Engineering Student | MBA in Data Science & Analytics
 
-👋 About Me
+💻 **Python • Data Analysis • Software Development • Technology Applied to Engineering**
 
-I hold a Bachelor's Degree in Science and Technology (BICT) from UNIFAL-MG and I am currently pursuing Chemical Engineering at UNIFAL-MG and an MBA in Data Science & Analytics at USP/ESALQ.
+---
 
-My academic background combines engineering, programming, and data analysis.
+## 👨‍💻 About Me
 
-During my undergraduate studies, I worked as a teaching assistant for Computational Resources I, II, and III, supporting students with Python, programming logic, and computational problem-solving applied to engineering.
+I hold a **Bachelor's Degree in Science and Technology (BICT)** from **UNIFAL-MG** and I am currently pursuing **Chemical Engineering at UNIFAL-MG** and an **MBA in Data Science & Analytics at USP/ESALQ**.
 
-For my undergraduate final project, I developed UniCar, a functional prototype of a university carpooling application. The project involved requirements analysis, system modeling, application logic, user authentication, and database integration using Firebase.
+My academic background combines **engineering, programming, and data analysis**.
 
-I am currently evolving the concepts developed in UniCar into a new project: Smart Carpool, an evolution of the original prototype focused on building a more structured application while developing practical software engineering skills.
+During my undergraduate studies, I worked as a teaching assistant for **Computational Resources I, II, and III**, supporting students with **Python, programming logic, and computational problem-solving applied to engineering**.
 
-At the same time, I am strengthening my knowledge of Python, data analysis, Git/GitHub, databases, and software development, building projects that connect technology with real-world problems.
+For my undergraduate final project, I developed **UniCar**, a functional prototype of a university carpooling application using **MIT App Inventor and Firebase**.
 
-My main professional interest lies at the intersection of technology, data, and engineering, using programming and computational tools to develop solutions and support data-driven decision-making.
+Today, I am evolving that concept into **Smart Carpool** — a more structured application that also serves as a hands-on environment for improving my software development and engineering practices.
 
-🛠️ Technologies & Tools
-Programming & Development
-Python
-Java
-SQL
-HTML
-CSS
-JavaScript
-Data & Engineering
-Pandas
-Excel
-MATLAB
-Aspen
-Origin
-Tools
-Git
-GitHub
-Firebase
-VS Code
-MIT App Inventor
-🚀 Featured Projects
-🚗 Smart Carpool
+I am currently strengthening my knowledge in **Python, Data Analysis, Git/GitHub, databases, and software development**, with a focus on building practical projects that connect **technology, data, and engineering**.
 
-Project currently under development for a university carpooling platform.
+---
 
-Smart Carpool originated from UniCar, the prototype developed for my undergraduate final project, and represents the evolution of that concept into a more complete and structured application.
+## 🛠️ Tech Stack
 
-In addition to developing the application itself, I am using the project to apply and strengthen software development practices, including:
+### 💻 Programming & Development
 
-Project organization and architecture
-Git and version control
-Issues and feature planning
-Feature branches
-Pull Requests
-Documentation
-Incremental development
-Database integration
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-Repository: smart-carpool
+### 📊 Data & Engineering
 
-🎓 UniCar — University Carpooling Prototype
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
+![Aspen](https://img.shields.io/badge/Aspen-Engineering-005A9C?style=for-the-badge)
+![Origin](https://img.shields.io/badge/Origin-Data%20Analysis-FF6C00?style=for-the-badge)
 
-Functional prototype developed as my undergraduate final project for the Bachelor's Degree in Science and Technology (BICT).
+### 🔧 Tools & Platforms
 
-UniCar was developed using MIT App Inventor and Firebase as a proposed system to facilitate carpool organization within the university community.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge\&logo=firebase\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
-The development involved:
+---
 
-Requirements analysis
-System modeling
-Application logic
-User authentication
-Data management
-Firebase integration
-Functional prototype development
+# 🚀 Featured Projects
 
-The project served as the conceptual foundation for the current development of Smart Carpool.
+## 🚗 Smart Carpool
 
-Repository: unicar-app-caronas
+> **A university carpooling platform currently under development.**
 
-🧠 Computational Resources with Python
+**Smart Carpool** is the evolution of **UniCar**, the prototype originally developed for my undergraduate final project.
 
-Repository dedicated to exercises, scripts, and applications related to Computational Resources I, II, and III, courses in which I worked as a teaching assistant.
+The project is being rebuilt as a more structured application while serving as a practical environment for applying software engineering concepts.
 
-Topics include:
+### 🔨 What I'm working on
 
-Python fundamentals
-Programming logic
-Computational problem-solving
-Engineering-oriented applications
-Data manipulation
-Introduction to data analysis with Pandas
+* 🏗️ Project organization and architecture
+* 🌿 Git branching workflow
+* 📝 Issues and feature planning
+* 🔀 Pull Requests
+* 📚 Documentation
+* 🔄 Incremental development
+* 🗄️ Database integration
 
-Repository: python-recursos-computacionais
+📌 **Repository:** `smart-carpool`
 
-🌐 Personal Portfolio
+---
 
-Personal portfolio developed with HTML, CSS, and JavaScript to showcase my background, projects, and progress in technology.
+## 🎓 UniCar
 
-The development of the portfolio itself is also part of my learning process and is being used to practice:
+> **University carpooling prototype developed as my undergraduate final project.**
 
-Web development
-Git and GitHub
-Issues
-Branches
-Pull Requests
-Project organization and documentation
-📚 Currently Learning & Developing
+UniCar was developed using **MIT App Inventor + Firebase** to explore a digital solution for organizing rides within the university community.
 
-I am currently strengthening my knowledge in:
+### Main concepts applied
 
-Python
-Data analysis with Python and Pandas
-SQL and databases
-Git and GitHub
-Software development
-Web development
-Project organization and architecture
-Computational applications in engineering
-🎯 Professional Goals
+* 📋 Requirements analysis
+* 🧩 System modeling
+* ⚙️ Application logic
+* 🔐 User authentication
+* 🗄️ Data management
+* 🔥 Firebase integration
+* 📱 Functional mobile prototype
 
-I am seeking internship or junior-level opportunities in technology, particularly in:
+UniCar became the **conceptual foundation for Smart Carpool**.
 
-Software Development
-Python Development
-Data Analysis
-Information Technology
-Automation
-Computational Applications in Engineering
+📌 **Repository:** `unicar-app-caronas`
 
-I am especially interested in opportunities where I can combine my background in Science, Technology, and Engineering with programming and data analysis.
+---
 
-📫 Contact
+## 🧠 Computational Resources with Python
 
-Email: Henry_leonardo@icloud.com
+Collection of exercises, scripts, and computational applications related to the **Computational Resources I, II, and III** courses, in which I worked as a teaching assistant.
+
+### Topics
+
+`Python` • `Programming Logic` • `Problem Solving` • `Engineering Applications` • `Pandas` • `Data Analysis`
+
+📌 **Repository:** `python-recursos-computacionais`
+
+---
+
+## 🌐 Personal Portfolio
+
+Personal portfolio developed with:
+
+`HTML` • `CSS` • `JavaScript`
+
+The project is also part of my software development learning process, where I practice:
+
+* Git & GitHub
+* Issues
+* Branches
+* Pull Requests
+* Project organization
+* Documentation
+* Web development
+
+🌐 **Portfolio:** [leonardo-h-oliveira.github.io](https://leonardo-h-oliveira.github.io/)
+
+---
+
+## 📚 Currently Learning
+
+```text
+🐍 Python & Software Development
+📊 Data Analysis with Pandas
+🗄️ SQL & Databases
+🌿 Git & GitHub
+🌐 Web Development
+🏗️ Software Architecture
+⚙️ Computational Applications in Engineering
+```
+
+---
+
+## 🎯 Professional Goals
+
+I am currently looking for **internship or junior-level opportunities in technology**, particularly in:
+
+* 💻 Software Development
+* 🐍 Python Development
+* 📊 Data Analysis
+* 🖥️ Information Technology
+* ⚙️ Automation
+* 🧪 Computational Applications in Engineering
+
+My goal is to build a career at the intersection of:
+
+### **Engineering × Technology × Data**
+
+using programming and computational tools to solve real-world problems and support **data-driven decision-making**.
+
+---
+
+## 📫 Let's Connect
+
+📧 **Email:** [Henry_leonardo@icloud.com](mailto:Henry_leonardo@icloud.com)
+
+🌐 **Portfolio:** [leonardo-h-oliveira.github.io](https://leonardo-h-oliveira.github.io/)
+
+💻 **GitHub:** [github.com/leonardo-h-oliveira](https://github.com/leonardo-h-oliveira)
+
+---
+
+<p align="center">
+  <i>Building my path at the intersection of engineering, software and data.</i>
+</p>
