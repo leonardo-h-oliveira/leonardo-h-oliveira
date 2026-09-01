@@ -1,48 +1,48 @@
 # Leonardo Henrique Oliveira
 
-Formado em Ciência e Tecnologia pela UNIFAL-MG, graduando em Engenharia Química e aluno do MBA em Data Science & Analytics da USP/ESALQ.
+Science and Technology graduate at UNIFAL-MG, Chemical Engineering undergraduate and MBA student in Data Science & Analytics at USP/ESALQ, based in Minas Gerais, Brazil.
 
-Minha experiência combina programação, análise de dados e aplicações voltadas à engenharia. Durante a graduação, fui monitor de Recursos Computacionais I, II e III, apoiando estudantes em lógica de programação, Python e resolução de problemas computacionais.
+I work with Python, SQL and web development. During university, I was a teaching assistant for three Computational Resources courses, helping students with programming logic, Python and engineering problems.
 
-Busco oportunidades de nível inicial em análise de dados, desenvolvimento Python ou sistemas, com preferência por trabalho remoto.
+I am currently building practical projects and looking for entry-level opportunities in data analysis, business intelligence or Python development, preferably remote.
 
-## Projetos
+## Selected projects
 
 ### Smart Carpool
 
-Aplicação web para oferta e solicitação de caronas universitárias, desenvolvida a partir do projeto acadêmico UniCar.
+A published web application for university carpooling, developed from the academic UniCar prototype.
 
-- Cadastro, autenticação e edição de perfil
-- Gestão de veículos e publicação de caronas
-- Solicitação, aceite, recusa e cancelamento de vagas
-- Regras de privacidade para telefone e placa
-- Banco PostgreSQL, migrações e 18 testes automatizados
-- Fluxos validados manualmente com diferentes usuários
+- Account registration, authentication and profile editing
+- Vehicle management and ride publishing
+- Ride request, approval, rejection and cancellation flows
+- Privacy rules for phone numbers and license plates
+- PostgreSQL database, migrations and 18 automated tests
+- Main workflows manually validated with different users
 
-[Demonstração](https://smart-carpool-7ltw.onrender.com) · [Repositório](https://github.com/leonardo-h-oliveira/smart-carpool)
+[Live demo](https://smart-carpool-7ltw.onrender.com) · [Repository](https://github.com/leonardo-h-oliveira/smart-carpool)
+
+### Task Manager
+
+A browser-based task manager with priorities, due dates, recurring tasks, search, filters and local persistence.
+
+[Live demo](https://leonardo-h-oliveira.github.io/task-manager/) · [Repository](https://github.com/leonardo-h-oliveira/task-manager)
 
 ### UniCar
 
-Protótipo de aplicativo de caronas desenvolvido como Trabalho de Conclusão de Curso na UNIFAL-MG. O projeto documenta requisitos, regras de negócio, fluxo de usuários e decisões técnicas que deram origem ao Smart Carpool.
+The academic project that preceded Smart Carpool. Its repository documents requirements, business rules, user flows and the original mobile prototype.
 
-[Repositório](https://github.com/leonardo-h-oliveira/unicar-app-caronas)
+[Repository](https://github.com/leonardo-h-oliveira/unicar-app-caronas)
 
-### Recursos Computacionais com Python
+## Working knowledge
 
-Exercícios e exemplos utilizados durante as monitorias de Recursos Computacionais, com aplicações de Python em problemas de engenharia e análise de dados.
+- Python, SQL and Pandas
+- FastAPI, SQLAlchemy and PostgreSQL
+- HTML, CSS and JavaScript
+- Git, GitHub, automated tests and technical documentation
+- Excel, MATLAB and computational tools for engineering
 
-[Repositório](https://github.com/leonardo-h-oliveira/python-recursos-computacionais)
-
-## Conhecimentos
-
-- Python, SQL e Pandas
-- FastAPI, SQLAlchemy e PostgreSQL
-- HTML, CSS e JavaScript
-- Git, GitHub, testes e documentação técnica
-- Excel, MATLAB e ferramentas computacionais aplicadas à engenharia
-
-## Contato
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/henryleonardo/)
-- [Portfólio](https://leonardo-h-oliveira.github.io/)
-- [E-mail](mailto:Henry_leonardo@icloud.com)
+- [Portfolio](https://leonardo-h-oliveira.github.io/)
+- [Email](mailto:Henry_leonardo@icloud.com)
