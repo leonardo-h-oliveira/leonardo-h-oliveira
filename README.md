@@ -1,46 +1,98 @@
 # Leonardo Henrique Oliveira
 
-Science and Technology graduate at UNIFAL-MG, Chemical Engineering undergraduate and MBA student in Data Science & Analytics at USP/ESALQ, based in Minas Gerais, Brazil.
+Science and Technology graduate from UNIFAL-MG and MBA student in Data Science & Analytics at USP/ESALQ, with an academic background in Chemical Engineering, based in Minas Gerais, Brazil.
 
-I work with Python, SQL and web development. During university, I was a teaching assistant for three Computational Resources courses, helping students with programming logic, Python and engineering problems.
+I work primarily with Python, SQL and web development, with a growing focus on backend development, APIs, databases, automated testing and software engineering practices.
 
-I am currently building practical projects and looking for entry-level opportunities in data analysis, business intelligence or Python development, preferably remote.
+During university, I was a teaching assistant for three Computational Resources courses, helping students with programming logic, Python and engineering problems.
 
-## Selected projects
+I am currently building practical software projects and looking for entry-level opportunities in Python development, backend development, data analysis or business intelligence, preferably remote.
 
-### Smart Carpool
+Selected projects
 
-A published web application for university carpooling, developed from the academic UniCar prototype.
+Sushi App
 
-- Account registration, authentication and profile editing
-- Vehicle management and ride publishing
-- Ride request, approval, rejection and cancellation flows
-- Privacy rules for phone numbers and license plates
-- PostgreSQL database, migrations and 18 automated tests
-- Main workflows manually validated with different users
+A mobile-first full-stack ordering system being developed for a local restaurant. The MVP feature set is implemented and currently undergoing release validation.
 
-[Live demo](https://smart-carpool-7ltw.onrender.com) · [Repository](https://github.com/leonardo-h-oliveira/smart-carpool)
+Customer menu with categories, products, variants and add-ons
 
-### Task Manager
+Shopping cart, delivery/pickup checkout and order tracking
 
-A browser-based task manager with priorities, due dates, recurring tasks, search, filters and local persistence.
+Protected staff authentication and administrative routes
 
-[Live demo](https://leonardo-h-oliveira.github.io/task-manager/) · [Repository](https://github.com/leonardo-h-oliveira/task-manager)
+Order management dashboard and menu administration
 
-### UniCar
+Product variants, promotional pricing and immutable order snapshots
 
-The academic project that preceded Smart Carpool. Its repository documents requirements, business rules, user flows and the original mobile prototype.
+FastAPI, SQLAlchemy and Alembic backend
 
-[Repository](https://github.com/leonardo-h-oliveira/unicar-app-caronas)
+Next.js, React, TypeScript and Tailwind CSS frontend
 
-## Working knowledge
+Automated backend and frontend tests
 
-- Python, SQL and Pandas
-- FastAPI, SQLAlchemy and PostgreSQL
-- HTML, CSS and JavaScript
-- Git, GitHub, automated tests and technical documentation
-- Excel, MATLAB and computational tools for engineering
+GitHub Actions validation with tests, linting and production builds
 
+Development organized through Issues, branches and Pull Requests
+
+Current validation includes 26 backend tests and 10 frontend tests.
+
+Repository
+
+Smart Carpool
+
+A published web application for university carpooling, developed independently from the academic UniCar prototype.
+
+Account registration, authentication and profile management
+
+Vehicle management and ride publishing
+
+Passenger booking, approval, rejection and cancellation workflows
+
+Transaction-safe seat availability rules
+
+Privacy protection for phone numbers and license plates
+
+PostgreSQL database and Alembic migrations
+
+18 automated tests covering authentication, authorization and business rules
+
+GitHub Actions continuous integration
+
+Live demo · Repository
+
+Task Manager
+
+A browser-based task management application with priorities, due dates, recurring tasks, search, filters and local persistence.
+
+Live demo · Repository
+
+Technical skills
+
+Python, SQL and Pandas
+
+FastAPI, SQLAlchemy and REST APIs
+
+PostgreSQL, SQLite and database migrations with Alembic
+
+JavaScript, TypeScript, React and Next.js
+
+HTML, CSS and Tailwind CSS
+
+Pytest, Vitest and automated testing
+
+Git, GitHub, Issues, Pull Requests and GitHub Actions
+
+Technical documentation and software architecture fundamentals
+
+Excel, MATLAB and computational tools for engineering
+
+Academic experience
+
+During my time at UNIFAL-MG, I worked as a teaching assistant for Computational Resources I, II and III, supporting students with Python programming, computational problem solving and engineering applications.
+
+The academic UniCar project also served as the starting point for my later Smart Carpool portfolio application.
+
+Python teaching materials · UniCar repository
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/henryleonardo/)
