@@ -4,97 +4,112 @@ Science and Technology graduate from UNIFAL-MG and MBA student in Data Science &
 
 I work primarily with Python, SQL and web development, with a growing focus on backend development, APIs, databases, automated testing and software engineering practices.
 
-During university, I was a teaching assistant for three Computational Resources courses, helping students with programming logic, Python and engineering problems.
+During university, I was a teaching assistant for three Computational Resources courses, supporting students with programming logic, Python and engineering problem solving.
 
-I am currently building practical software projects and looking for entry-level opportunities in Python development, backend development, data analysis or business intelligence, preferably remote.
+I am currently building practical software projects and seeking entry-level opportunities in Python development, backend development, data analysis or business intelligence, preferably remote.
 
-Selected projects
+---
 
-Sushi App
+## Selected Projects
 
-A mobile-first full-stack ordering system being developed for a local restaurant. The MVP feature set is implemented and currently undergoing release validation.
+### Sushi App
 
-Customer menu with categories, products, variants and add-ons
+A mobile-first full-stack ordering system developed for a local restaurant. The MVP feature set is implemented and currently undergoing release validation.
 
-Shopping cart, delivery/pickup checkout and order tracking
+**Highlights**
 
-Protected staff authentication and administrative routes
+- Customer menu with categories, products, variants and add-ons
+- Shopping cart, checkout and order tracking
+- Delivery and pickup workflows
+- Protected staff authentication and administrative routes
+- Order management dashboard
+- Category and product administration
+- Promotional pricing and configurable product options
+- Immutable order snapshots for historical consistency
+- Automated backend and frontend testing
+- Continuous integration with GitHub Actions
+- Development workflow based on Issues, branches and Pull Requests
 
-Order management dashboard and menu administration
+**Technology stack**
 
-Product variants, promotional pricing and immutable order snapshots
+`Python` · `FastAPI` · `SQLAlchemy` · `Alembic` · `PostgreSQL` · `Next.js` · `React` · `TypeScript` · `Tailwind CSS`
 
-FastAPI, SQLAlchemy and Alembic backend
+**Current validation:** 26 backend tests and 10 frontend tests.
 
-Next.js, React, TypeScript and Tailwind CSS frontend
+[Repository](https://github.com/leonardo-h-oliveira/sushi-app)
 
-Automated backend and frontend tests
+---
 
-GitHub Actions validation with tests, linting and production builds
-
-Development organized through Issues, branches and Pull Requests
-
-Current validation includes 26 backend tests and 10 frontend tests.
-
-Repository
-
-Smart Carpool
+### Smart Carpool
 
 A published web application for university carpooling, developed independently from the academic UniCar prototype.
 
-Account registration, authentication and profile management
+**Highlights**
 
-Vehicle management and ride publishing
+- Account registration, authentication and profile management
+- Vehicle management and ride publishing
+- Passenger booking requests
+- Approval, rejection and cancellation workflows
+- Transaction-safe seat availability
+- Privacy protection for phone numbers and license plates
+- PostgreSQL database with Alembic migrations
+- 18 automated tests covering authentication, authorization and business rules
+- Continuous integration with GitHub Actions
 
-Passenger booking, approval, rejection and cancellation workflows
+**Technology stack**
 
-Transaction-safe seat availability rules
+`Python` · `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `Alembic` · `HTML` · `CSS` · `JavaScript`
 
-Privacy protection for phone numbers and license plates
+[Live demo](https://smart-carpool-7ltw.onrender.com/) · [Repository](https://github.com/leonardo-h-oliveira/smart-carpool)
 
-PostgreSQL database and Alembic migrations
+---
 
-18 automated tests covering authentication, authorization and business rules
-
-GitHub Actions continuous integration
-
-Live demo · Repository
-
-Task Manager
+### Task Manager
 
 A browser-based task management application with priorities, due dates, recurring tasks, search, filters and local persistence.
 
-Live demo · Repository
+**Technology stack**
 
-Technical skills
+`JavaScript` · `HTML` · `CSS`
 
-Python, SQL and Pandas
+[Live demo](https://leonardo-h-oliveira.github.io/task-manager/) · [Repository](https://github.com/leonardo-h-oliveira/task-manager)
 
-FastAPI, SQLAlchemy and REST APIs
+---
 
-PostgreSQL, SQLite and database migrations with Alembic
+## Technical Skills
 
-JavaScript, TypeScript, React and Next.js
+**Backend and Data**
 
-HTML, CSS and Tailwind CSS
+Python · SQL · Pandas · FastAPI · SQLAlchemy · REST APIs
 
-Pytest, Vitest and automated testing
+**Databases**
 
-Git, GitHub, Issues, Pull Requests and GitHub Actions
+PostgreSQL · SQLite · Alembic
 
-Technical documentation and software architecture fundamentals
+**Frontend**
 
-Excel, MATLAB and computational tools for engineering
+JavaScript · TypeScript · React · Next.js · HTML · CSS · Tailwind CSS
 
-Academic experience
+**Testing and Development**
 
-During my time at UNIFAL-MG, I worked as a teaching assistant for Computational Resources I, II and III, supporting students with Python programming, computational problem solving and engineering applications.
+Pytest · Vitest · Automated Testing · Git · GitHub · GitHub Actions · Issues · Pull Requests
 
-The academic UniCar project also served as the starting point for my later Smart Carpool portfolio application.
+**Additional Tools**
 
-Python teaching materials · UniCar repository
+Excel · MATLAB · Technical Documentation · Software Architecture Fundamentals · Computational Tools for Engineering
+
+---
+
+## Academic Experience
+
+At UNIFAL-MG, I worked as a teaching assistant for Computational Resources I, II and III, supporting students with Python programming, programming logic, computational problem solving and engineering applications.
+
+The academic UniCar project later served as the conceptual starting point for the Smart Carpool portfolio application.
+
+[Python teaching materials](https://github.com/leonardo-h-oliveira/python-recursos-computacionais) · [UniCar repository](https://github.com/leonardo-h-oliveira/unicar-app-caronas)
+
+---
+
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/henryleonardo/)
-- [Portfolio](https://leonardo-h-oliveira.github.io/)
-- [Email](mailto:Henry_leonardo@icloud.com)
+[LinkedIn](https://www.linkedin.com/in/henryleonardo/) · [Portfolio](https://leonardo-h-oliveira.github.io/) · [Email](mailto:Henry_leonardo@icloud.com)
