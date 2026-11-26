@@ -2,15 +2,37 @@
 
 Science and Technology graduate from UNIFAL-MG and MBA student in Data Science & Analytics at USP/ESALQ, with an academic background in Chemical Engineering, based in Minas Gerais, Brazil.
 
-I work primarily with Python, SQL and web development, with a growing focus on backend development, APIs, databases, automated testing and software engineering practices.
+As a teaching assistant for Computational Resources I, II and III at UNIFAL-MG, I supported students with programming logic, Python and computational problem solving for engineering.
 
-During university, I was a teaching assistant for three Computational Resources courses, supporting students with programming logic, Python and engineering problem solving.
-
-I am currently building practical software projects and seeking entry-level opportunities in Python development, backend development, data analysis or business intelligence, preferably remote.
+I am seeking an entry-level role in Python development. My portfolio includes REST API projects, and my MBA is developing my foundation in data science and analytics.
 
 ---
 
 ## Selected Projects
+
+### Smart Carpool
+
+A published web application for university carpooling, inspired by the university mobility problem studied in UniCar. Smart Carpool has its own codebase.
+
+**Highlights**
+
+- Account registration, authentication and profile management
+- Vehicle management and ride publishing
+- Passenger booking requests
+- Approval, rejection and cancellation workflows
+- Transaction-safe seat availability
+- Privacy protection for phone numbers and license plates
+- PostgreSQL database with Alembic migrations
+- 18 automated tests covering authentication, authorization and business rules
+- Continuous integration with GitHub Actions
+
+**Technology stack**
+
+`Python` · `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `Alembic` · `HTML` · `CSS` · `JavaScript`
+
+[Live demo](https://smart-carpool-7ltw.onrender.com/) · [Repository](https://github.com/leonardo-h-oliveira/smart-carpool)
+
+---
 
 ### Sushi App
 
@@ -40,30 +62,6 @@ A mobile-first full-stack ordering system developed for a local restaurant. The 
 
 ---
 
-### Smart Carpool
-
-A published web application for university carpooling, developed independently from the academic UniCar prototype.
-
-**Highlights**
-
-- Account registration, authentication and profile management
-- Vehicle management and ride publishing
-- Passenger booking requests
-- Approval, rejection and cancellation workflows
-- Transaction-safe seat availability
-- Privacy protection for phone numbers and license plates
-- PostgreSQL database with Alembic migrations
-- 18 automated tests covering authentication, authorization and business rules
-- Continuous integration with GitHub Actions
-
-**Technology stack**
-
-`Python` · `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `Alembic` · `HTML` · `CSS` · `JavaScript`
-
-[Live demo](https://smart-carpool-7ltw.onrender.com/) · [Repository](https://github.com/leonardo-h-oliveira/smart-carpool)
-
----
-
 ### Task Manager
 
 A browser-based task management application with priorities, due dates, recurring tasks, search, filters and local persistence.
@@ -80,7 +78,9 @@ A browser-based task management application with priorities, due dates, recurrin
 
 **Backend and Data**
 
-Python · SQL · Pandas · FastAPI · SQLAlchemy · REST APIs
+Python · SQL · Pandas
+
+FastAPI, SQLAlchemy and REST APIs in portfolio projects
 
 **Databases**
 
